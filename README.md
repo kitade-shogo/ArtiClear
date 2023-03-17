@@ -54,6 +54,9 @@
 フロントエンド: React, TypeScript
 バックエンド: Ruby on Rails
 
+■ 画面遷移図
+https://www.figma.com/file/uwuGmRG1D83xotyy9NkMKz/bookmark-app?node-id=0%3A1&t=PIo93v3ggWGT3dxb-0
+
 ■ スケジュール
 企画〜技術調査：3/4 〆切
 README〜ER 図作成：3/6 〆切
