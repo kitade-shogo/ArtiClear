@@ -79,3 +79,7 @@
 
 ### サードパーティ
 - Firebase Authentication
+
+
+## ER図
+<img width="800" alt="スクリーンショット 2023-07-27 7 30 12" src="https://github.com/kitade-shogo/ArtiClear/assets/108001521/5a910259-8880-4962-a6d6-46ba86934413">
